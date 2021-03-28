@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Data Visualization
 
-- Some Rotate and Shift by Data Generator
+- Rotation and Shift by Data Generator
 ```python
 datagen = ImageDataGenerator(rotation_range = 40,
                              width_shift_range = 0.2,

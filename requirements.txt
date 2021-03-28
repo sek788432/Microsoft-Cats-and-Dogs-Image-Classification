@@ -1,0 +1,6 @@
+tensorflow==2.4.0
+sklearn==0.24.1
+PIL
+numpy
+tqdm
+matplotlib

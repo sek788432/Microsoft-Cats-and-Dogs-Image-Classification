@@ -22,20 +22,21 @@ datagen = ImageDataGenerator(rotation_range = 40,
                              horizontal_flip = True,
                              fill_mode = 'nearest')
 ```
-<img src="./readme_img/1.PNG" width="250">
-<img src="./readme_img/2.PNG" width="250">
-<img src="./readme_img/3.PNG" width="250">
-<img src="./readme_img/4.PNG" width="250">
-<img src="./readme_img/5.PNG" width="250">
+<img src="./readme_img/1.PNG" width="150">
+<img src="./readme_img/2.PNG" width="150">
+<img src="./readme_img/3.PNG" width="150">
+<img src="./readme_img/4.PNG" width="150">
+<img src="./readme_img/5.PNG" width="150">
+
 ---
 
 - Add Random Erasing Method to Train Data
 
-<img src="./readme_img/e_1.PNG" width="250">
-<img src="./readme_img/e_2.PNG" width="250">
-<img src="./readme_img/e_3.PNG" width="250">
-<img src="./readme_img/e_4.PNG" width="250">
-<img src="./readme_img/e_5.PNG" width="250">
+<img src="./readme_img/e_1.PNG" width="150">
+<img src="./readme_img/e_2.PNG" width="150">
+<img src="./readme_img/e_3.PNG" width="150">
+<img src="./readme_img/e_4.PNG" width="150">
+<img src="./readme_img/e_5.PNG" width="150">
 
 ---
 
